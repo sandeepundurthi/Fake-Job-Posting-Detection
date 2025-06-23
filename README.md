@@ -51,19 +51,19 @@ Fake-Job-Posting-Detection/
 - Evaluation: Accuracy, Precision, Recall, F1-Score
 
 ---
+## 🛠️ Getting Started
+### 1. Clone the repository
+```
+# Clone the repository
+git clone https://github.com/sandeepundurthi/Fake-Job-Posting-Detection.git
+cd Fake-Job-Posting-Detection
 
-## 📈 App Demo (Optional)
-
-Try the interactive app locally:
-
-```bash
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app/streamlit_app_v2.py
 ```
-
 ---
 
 ## 👤 Author
